@@ -1,3 +1,3 @@
 <?php
-  $conn = mysqli_connect("localhost", "root", "", "arkademy");
+  $conn = mysqli_connect("localhost", "root", "", "produk");
 ?>
